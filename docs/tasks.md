@@ -3,7 +3,7 @@
 **Current objective:** Reusable Panda3D visual workbench and Littleglow proof  
 **Method:** SPEAR — Spec, Prove, Engineer, Architecture, Refine
 
-- [~] **ILM-0901: Publish initial public repository** — user-approved public `BadgersMC/Illuminate`, MIT license, README, local-file exclusions, tests and secret scan before initial commit/push. Does not complete plugin packaging.
+- [x] **ILM-0901: Publish initial public repository** — public `BadgersMC/Illuminate` created with MIT license, README and local-file exclusions; initial commit pushed to main. 58 tests passed; wheel/sdist built; Semgrep Python/secrets scan and explicit-file credential scan found no findings. Does not complete plugin packaging.
 
 - [x] **ILM-0101: Establish protocol and SPEAR baseline** — REQ-PRT-001 through REQ-PRT-006
 - [x] **ILM-0201: Implement semantic registry and temporary overlay** — REQ-SCN-001 through REQ-SCN-005
